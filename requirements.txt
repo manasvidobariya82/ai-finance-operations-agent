@@ -1,0 +1,16 @@
+fastapi>=0.115
+uvicorn[standard]>=0.32
+google-genai>=2.3
+sqlalchemy>=2.0
+python-multipart>=0.0.9
+pydantic>=2.7
+python-dotenv>=1.0
+pytest>=8.0
+httpx>=0.27
+
+# Fraud investigation: detection models, entity graph, model registry
+xgboost>=3.0
+scikit-learn>=1.6
+numpy>=2.0
+joblib>=1.4
+networkx>=3.4
